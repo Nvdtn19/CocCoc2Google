@@ -1,3 +1,3 @@
 # CocCoc2Google
 
-Theo mặc định, bạn có thể thay đổi công cụ tìm kiếm từ Cốc Cốc sang Google trong phần cài đặt của trình duyệt, nhưng thay đổi này chỉ có tác dụng ở thanh địa chỉ. Vì vậy extension này sẽ tự động chuyển hướng công cụ tìm kiếm từ Cốc Cốc sang sử dụng Google, khi sử dụng cả thanh địa chỉ và hộp tìm kiếm ở tab mới.
+By default in CocCoc browser, you can change the search engine from Coc Coc to Google in the browser settings, but this change only affects the address bar, not the search box which shows when opening a new tab. Therefore, this extension will automatically redirect the search engine from Coc Coc to Google, when using either the address bar or the search box.
